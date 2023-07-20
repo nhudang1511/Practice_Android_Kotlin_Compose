@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="first_title">First</string>
+    <string name="first_article">First Article</string>
+    <string name="second_title">Second</string>
+    <string name="second_article">Second Article</string>
+    <string name="third_title">Third</string>
+    <string name="third_article">Third Article</string>
+    <string name="fourth_title">Fourth</string>
+    <string name="fourth_article">Fourth Article</string>
+</resources>
